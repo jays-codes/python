@@ -136,5 +136,4 @@ Feel free to use the following as resources:
 
 - JAY's NOTES
 - did assignment #1 anagram (Part 1, Part 2)
-- test.jpynb
-- forked python repo from UOT-DSI, cloned
+- test.jpynb, isPalindrome function, created new branch
