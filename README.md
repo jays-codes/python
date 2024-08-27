@@ -134,3 +134,6 @@ Feel free to use the following as resources:
 * **README**: This file.
 * **steps_to_ask_for_help.png**: Guide on how to ask for help.
 
+JAYs Commits
+- did assignment #1, anagram
+- added test.jpynb, isPalindrome function
