@@ -38,6 +38,7 @@ import re
 
 def is_valid_phone_number(phone_number):
     pattern = r'^[2-9]\d{2}-\d{3}-\d{4}$'
+    
     return re.match(pattern, phone_number) is not None
 
 print(is_valid_phone_number('416-555-5555'))  # Should return True
